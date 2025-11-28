@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6B81&center=true&vCenter=true&width=650&lines=Hi+I'm+Meghana+Kothakonda+👋;Machine+Learning+%7C+Full-Stack+Developer;Aspiring+Applied+Scientist;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6B81&center=true&vCenter=true&width=650&lines=Hi+I'm+Meghana+Kothakonda+👋;Machine+Learning+%7C+Full-Stack+Developer;Always+Learning+🚀" />
 </p>
 
 ---
@@ -33,31 +33,41 @@
 
 # 🌟 Featured Projects (Cards)
 
-<a href="YOUR_PROJECT_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghana-k2206&repo=DidactAI&theme=radical" />
-</a>
+### 🔬 **DidactAI – Intelligent Learning Insight & Student Assistant**
+**Tech:** Python, NLTK, scikit-learn, Flask, React, MySQL, AWS  
+- AI-driven personalized learning assistant  
+- Auto topic explanation, doubt-solving, adaptive quizzes  
+- Generated 50+ personalized quizzes, analyzed 100+ students' performance  
 
-<a href="YOUR_PROJECT_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghana-k2206&repo=ExpenseSync&theme=radical" />
-</a>
+🔗 *(Add link after deployment)*
 
-<a href="YOUR_PROJECT_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghana-k2206&repo=SmartLibrary&theme=radical" />
-</a>
+---
 
-*(Replace YOUR_PROJECT_LINK with actual repo URLs)*
+### 💰 **ExpenseSync – Personal Budget Management System**
+**Tech:** Java, Spring Boot, MySQL, JWT  
+- REST APIs for budget tracking, category analytics, alerts  
+- Secure authentication using JWT  
+- Helped users reduce unwanted expenses by 25%  
 
+🔗 *(Add link once repo is public)*
+
+---
+
+### 📚 **SmartLibrary – Library Management System**
+**Tech:** Java, OOP, Collections, File Handling  
+- Admin/User roles, book recommendations, fine calculation  
+- Managed 50+ users and 200+ books efficiently
 ---
 
 # 📊 GitHub Stats (Working & Updated)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghana-k2206&show_icons=true&theme=radical&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana-k2206&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghana123-k&show_icons=true&theme=radical&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana123-k&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana-k2206&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana123-k&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -65,7 +75,7 @@
 # 🏅 GitHub Contribution Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meghana-k2206&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=meghana123-k&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -73,7 +83,7 @@
 # ⏳ Activity Timeline (Contribution Graph)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana-k2206&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana123-k&theme=react-dark" />
 </p>
 
 ---
