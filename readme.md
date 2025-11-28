@@ -36,10 +36,10 @@
 ### 🔬 **DidactAI – Intelligent Learning Insight & Student Assistant**
 **Tech:** Python, NLTK, scikit-learn, Flask, React, MySQL, AWS  
 - AI-driven personalized learning assistant  
-- Auto topic explanation, doubt-solving, adaptive quizzes  
+- Auto topic explanation, adaptive quizzes  
 - Generated 50+ personalized quizzes, analyzed 100+ students' performance  
 
-🔗 *(Add link after deployment)*
+
 
 ---
 
@@ -49,7 +49,6 @@
 - Secure authentication using JWT  
 - Helped users reduce unwanted expenses by 25%  
 
-🔗 *(Add link once repo is public)*
 
 ---
 
@@ -59,7 +58,7 @@
 - Managed 50+ users and 200+ books efficiently
 ---
 
-# 📊 GitHub Stats (Working & Updated)
+# 📊 GitHub Stats 
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghana123-k&show_icons=true&theme=radical&count_private=true" />
@@ -80,7 +79,7 @@
 
 ---
 
-# ⏳ Activity Timeline (Contribution Graph)
+# ⏳ Activity Timeline
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana123-k&theme=react-dark" />
