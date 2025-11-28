@@ -61,7 +61,7 @@
 # 📊 GitHub Stats 
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghana123-k&show_icons=true&theme=radical&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghana-k2206&show_icons=true&theme=radical&count_private=true&hide_rank=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana123-k&theme=radical" />
 </p>
 
