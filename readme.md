@@ -31,33 +31,6 @@
 
 ---
 
-# 🌟 Featured Projects (Cards)
-
-### 🔬 **DidactAI – Intelligent Learning Insight & Student Assistant**
-**Tech:** Python, NLTK, scikit-learn, Flask, React, MySQL, AWS  
-- AI-driven personalized learning assistant  
-- Auto topic explanation, adaptive quizzes  
-- Generated 50+ personalized quizzes, analyzed 100+ students' performance  
-
-
-
----
-
-### 💰 **ExpenseSync – Personal Budget Management System**
-**Tech:** Java, Spring Boot, MySQL, JWT  
-- REST APIs for budget tracking, category analytics, alerts  
-- Secure authentication using JWT  
-- Helped users reduce unwanted expenses by 25%  
-
-
----
-
-### 📚 **SmartLibrary – Library Management System**
-**Tech:** Java, OOP, Collections, File Handling  
-- Admin/User roles, book recommendations, fine calculation  
-- Managed 50+ users and 200+ books efficiently
----
-
 # 📊 GitHub Stats 
 
 <p align="center">
@@ -71,11 +44,6 @@
 
 ---
 
-# 🏅 GitHub Contribution Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meghana123-k&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -85,16 +53,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana123-k&theme=react-dark" />
 </p>
 
----
-
-# 🧩 Custom React Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React%20Developer-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Java%20Developer-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-0A66C2?style=for-the-badge&logo=github" />
-</p>
 
 ---
 
