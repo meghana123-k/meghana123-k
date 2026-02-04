@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6B81&center=true&vCenter=true&width=650&lines=Hi+I'm+Meghana+Kothakonda+👋;Machine+Learning+%7C+Web+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6B81&center=true&vCenter=true&width=650&lines=Hi+I'm+Meghana+👋;Machine+Learning+%7C+Web+Developer;Always+Learning+🚀" />
 </p>
 
 ---
