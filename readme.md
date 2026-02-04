@@ -5,14 +5,6 @@
 
 ---
 
-## 🧠 About Me
-- ML, NLP & Data Science enthusiast  
-- Building **AI + Full-Stack** solutions using Python, Java, React  
-- Solved **250+** LeetCode problems (Rating: **1420**)  
-- Strong in **DSA**, **Spring Boot**, **Flask**, **React**, **MySQL**, **AWS**
-
----
-
 ## ⚡ Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
@@ -31,21 +23,6 @@
 
 ---
 
-# 📊 GitHub Stats 
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghana123-k&show_icons=true&theme=radical&count_private=true&hide_rank=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana123-k&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana123-k&layout=compact&theme=radical" />
-</p>
-
----
-
-
----
 
 # ⏳ Activity Timeline
 
