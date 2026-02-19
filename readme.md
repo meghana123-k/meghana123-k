@@ -8,18 +8,10 @@
 ## ⚡ Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,spring,flask,nodejs,maven" />
+  <img src="https://skillicons.dev/icons?i=react,spring,flask," />
   <img src="https://skillicons.dev/icons?i=mysql,aws,git,github,postman" />
 </p>
 
----
-
-## 🏆 Achievements  
-- **LeetCode Rating:** 1420+  
-- **TCS CodeVita:** Global Rank **2499** / 5.3 lakh+  
-- **AWS Academy Graduate – Data Engineering**  
-- **NPTEL Elite (Python & Java)**  
-- **Smart Interviews DSA — Top 5000 nationwide**  
 
 ---
 
