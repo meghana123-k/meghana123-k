@@ -142,30 +142,6 @@ Data Engineering Job Analytics Platform
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/meghana123-k/meghana123-k/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🏆 Coding Profiles
-
-- LeetCode: 180+ Problems Solved
-- CodeChef Rating: 1180
-- TCS CodeVita Global Rank: 2499
-
----
-
-# 🏅 Certifications
-
-- AWS Academy Data Engineering
-- NPTEL Elite – Java Programming
-- NPTEL Elite – Joy of Computing Using Python
-- UI Path Citizen Developer
-- CCNA: Introduction to Networks
-
----
-
 # 🌟 Quote
 
 <p align="center">
