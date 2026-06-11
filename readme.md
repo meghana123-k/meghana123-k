@@ -9,7 +9,7 @@ Building intelligent systems that solve real-world problems 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Engineer;Data+Engineering+Explorer;180%2B+LeetCode+Problems+Solved;Building+DidactAI+and+JobLens" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Engineer;Data+Engineering+Explorer;300%2B+LeetCode+Problems+Solved;Building+DidactAI+and+JobLens" />
 </p>
 
 <p align="center">
